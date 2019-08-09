@@ -1,0 +1,4 @@
+redis:
+  url: localhot
+  port: 6379
+  explication: 300
